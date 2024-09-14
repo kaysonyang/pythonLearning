@@ -1,9 +1,7 @@
 import sys
-from tkinter.tix import Select
 
 import pygame
 
-from first_numbers import numbers
 from settings import Settings
 from ship import Ship
 from bullet import Bullet
